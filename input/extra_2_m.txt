@@ -1,0 +1,7 @@
+ID	from	to	dur	capacity
+0	A	B	1	4
+1	A	E	1	2
+2	B	C	1	4
+3	C	E	2	4
+4	D	E	1	1
+END

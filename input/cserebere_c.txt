@@ -1,0 +1,4 @@
+CITY	NEED
+A	1Y
+B	1X
+END

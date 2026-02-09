@@ -1,0 +1,5 @@
+CITY	TERMEL	GYÁRT	KELL	DUR
+A	2X,1Z	-	-	-
+B	4Y	-	-	-
+C	-	Z	1X,2Y	2
+END
