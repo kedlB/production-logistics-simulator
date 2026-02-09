@@ -36,11 +36,12 @@ The simulator prints:
 - clear error messages if the goal cannot be achieved
 
 Example:
-
+'''
 DAY 2
 MAKE A: 2X
 SHIP A->B 1X
 STATUS: A: 1X B: 1Y
+'''
 
 ## Technical Notes
 - Implemented in modern C++ (STL containers, priority queues, recursion)
